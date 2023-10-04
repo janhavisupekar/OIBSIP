@@ -11,4 +11,4 @@ As part of my internship at Oasis Infobyte, I have successfully completed and ad
 
 5. Digital Library Management System: Developed to streamline library operations, this project enables users to add books, remove books, and track book availability.  The system highlights my knowledge of data structures, file handling, and efficient information retrieval.
 
-These projects were completed during my internship at Oasis Infobyte, demonstrating my practical application of Java programming concepts and showcasing my ability to develop functional and user-friendly applications. They are available on my GitHub repository as examples of my internship achievements and to provide insights for other developers and aspiring interns.
+These projects were completed during my internship at Oasis Infobyte, demonstrating my practical application of Java programming concepts and showcasing my ability to develop functional and user-friendly applications. They are available on my GitHub repository as examples of my internship achievements and to provide insights for other developers and aspiring interns..
